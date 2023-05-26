@@ -41,8 +41,8 @@
 <h1>Add admin</h1>
 
 <form on:submit|preventDefault="{handleSubmit}">
-    Insert account title: <br>
-    <input type="text" name="title" id="title" ><br>
+    Insert receiver id <br>
+    <input type="text" name="reciever" id="reciever" ><br>
     
     Insert email: <br>
     <input type="email" name="email" id="email" ><br>
