@@ -38,7 +38,7 @@
 	}
 
 	body {
-		padding: 1.5rem;
+		padding: 4.5rem;
 	}
 
 
