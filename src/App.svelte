@@ -24,7 +24,9 @@
 
 <main>
 	<Topbar {Topbar} />
-	<Router {routes} />
+	<body>
+			<Router {routes} />
+	</body>
 	<Footer {Footer} />
 </main>
 
